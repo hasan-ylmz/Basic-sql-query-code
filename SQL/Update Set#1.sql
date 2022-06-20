@@ -1,0 +1,1 @@
+UPDATE tablo_adı SET sütun_adı_1 =deger1 , sütun_adı_2 = deger2, ... WHERE koşul;

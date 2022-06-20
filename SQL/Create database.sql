@@ -1,0 +1,7 @@
+CREATE TABLE Maaslar 
+(  
+	KISIID BIGINT,
+    AY SMALLINT,
+   	YIL INT,
+    MAAS DECIMAL(10,2)
+)

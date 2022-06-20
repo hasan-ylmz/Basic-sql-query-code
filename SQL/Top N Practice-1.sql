@@ -1,0 +1,3 @@
+-- SELECT TOP  N <sütun listesi> FROM <tabloadı>
+SELECT * FROM PERSONEL 
+SELECT TOP 1  * FROM PERSONEL
